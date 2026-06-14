@@ -35,6 +35,9 @@ This project automates the Tricentis Vehicle Insurance web application using Sel
 3. Configure ChromeDriver
 4. Run the test class
 
+# ⭐ Author
+**Jay Kumar Prajapati**
+
 ## Screenshots
 
 ### AutoMobile Module
@@ -53,4 +56,6 @@ This project automates the Tricentis Vehicle Insurance web application using Sel
 <img src="https://github.com/user-attachments/assets/88766623-7b31-4a4d-9741-7b165fdd8582" width="900" height="400"/>
 <img src="https://github.com/user-attachments/assets/da9da6cb-2892-4a32-9d23-766663e1e5b3" width="900" height="400" />
 
-
+# 👍 If You Like This
+⭐ Star this repository <br>
+🔁 Share on LinkedIn
